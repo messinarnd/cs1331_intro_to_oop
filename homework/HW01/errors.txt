@@ -1,0 +1,11 @@
+Bad1
+The error message for Bad1 said "class BAD1 is public, should be declared in a file named BAD1.java"
+This error occurs at compile time. This error occurs because the class did not have the same name as the file.
+
+Bad2
+The error message for Bad2 said "Exception in thread "main" java.util.IllegalFormatConversionException" and tells you the error is in line 7.
+This error occurs at runtime. This error occurs because you have the print format for a decimal integer but told it to print a string.
+
+Bad3
+The error message for Bad3 said "reached end of file while parsing"
+This error occurs at compile time. It occurs because there was not a curly brace closing the public class statement.
